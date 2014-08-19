@@ -1,0 +1,29 @@
+{
+  "name": "gulp-kmd",
+  "version": "1.0.0",
+  "description": "kissy module compiler with gulp",
+  "homepage": "https://github.com/weekeight/gulp-kmd",
+  "main": "index.js",
+  "engines": {
+    "node": "~0.10"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weekeight/gulp-kmd.git"
+  },
+  "keywords": [
+    "gulp-kmd"
+  ],
+  "author": {
+    "name": "benfchen.cf@alibaba-inc.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weekeight/gulp-kmd/issues"
+  },
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "kmd": "0.0.10",
+    "through2": "^0.6.1"
+  }
+}
