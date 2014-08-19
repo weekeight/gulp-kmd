@@ -1,6 +1,6 @@
 {
   "name": "gulp-kmd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "kissy module compiler with gulp",
   "homepage": "https://github.com/weekeight/gulp-kmd",
   "main": "index.js",
@@ -12,6 +12,7 @@
     "url": "https://github.com/weekeight/gulp-kmd.git"
   },
   "keywords": [
+    "kissy",
     "gulp-kmd"
   ],
   "author": {
@@ -25,5 +26,6 @@
     "gulp-util": "^3.0.0",
     "kmd": "0.0.10",
     "through2": "^0.6.1"
-  }
+  },
+  "readmeFilename": "README.md"
 }
